@@ -14,8 +14,9 @@
    
     <img src={htstext} width="30%" height="30%" class="transition mx-auto invert"/>
     <div class="mx-auto flex gap-8 pt-5 justify-center">
-        <button class="border-4 rounded-xl text-sky-200 p-2 border-white bg-white font-bold">Sign up!</button>
-        <button class="border-4 rounded-xl text-white p-2 border-white">Donate</button>
+        <button class="border-4 rounded-xl text-sky-200 p-2 border-white bg-white font-bold">SIGN UP</button>
+        <button class="border-4 rounded-xl text-white p-2 border-white">DONATE</button>
+        <button class="border-4 rounded-xl text-white p-2 border-white">ABOUT</button>
     </div>
     <img src={skyline} width="100%" height="100%" class="transition opacity-80"/>
     
