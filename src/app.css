@@ -12,7 +12,7 @@ body {
     background-color: rgb(52, 211, 153);
 
     background-color: rgb(52, 211, 153);
-    background-image: radial-gradient(at 0% 7%, rgb(186, 230, 253) 0, transparent 78%), radial-gradient(at 100% 78%, rgb(216, 180, 254) 0, transparent 100%), radial-gradient(at 93% 55%, rgb(125, 211, 252) 0, transparent 43%), radial-gradient(at 36% 92%, rgb(253, 186, 116) 0, transparent 75%), radial-gradient(at 48% 25%, rgb(125, 211, 252) 0, transparent 93%), radial-gradient(at 35% 36%, rgb(255, 255, 255) 0, transparent 84%);
+    background-image: linear-gradient(to top, rgba(2,0,36,1) 28%, rgba(9,9,121,1) 56%, rgba(0,133,188,1) 100%);
     
     
     font-family: 'Permanent Marker', cursive;
