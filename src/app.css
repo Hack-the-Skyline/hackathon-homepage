@@ -12,7 +12,10 @@ body {
     background-color: rgb(52, 211, 153);
 
     background-color: rgb(52, 211, 153);
-    background-image: linear-gradient(to top, rgba(2,0,36,1) 28%, rgba(9,9,121,1) 56%, rgba(0,133,188,1) 100%);
+        background-image: linear-gradient(to top, rgba(2,0,36,1) 28%, rgba(9,9,121,1) 56%, rgba(0,133,188,1) 100%);
+    /* background-image: radial-gradient(circle at top, rgba(0,133,188,1) 28%, rgba(9,9,121,1) 56%, rgba(2,0,36,1) 100%); /*
+    Radial Gradient idk which one looks better radial or liner but idk hwo to make the circle on radial smaller
+     */
     
     
     font-family: 'Permanent Marker', cursive;

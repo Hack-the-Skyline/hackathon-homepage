@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource/passion-one": "^5.0.11",
 		"sharp": "^0.32.5"
 	}
 }
