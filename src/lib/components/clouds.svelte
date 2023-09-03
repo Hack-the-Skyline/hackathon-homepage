@@ -22,12 +22,12 @@
         }
     }
 
-    setInterval(animateClouds, 100);
+    setInterval(animateClouds, 20);
 </script>
 
 
 <div class="container clouds">
-    <img src={CloudBack} alt="Cloud Back" style="position: absolute; left: {cloudBackPosition}px;" />
+    <img src={CloudBack} alt="Cloud Back" class="position: absolute; left: {cloudBackPosition}px;"/>
     <img src={CloudFront} alt="Cloud Front" style="position: absolute; left: {cloudFrontPosition}px;" />
 </div>
 
