@@ -5,6 +5,4 @@
     import "@fontsource/passion-one";
 </script>
 
-  
-  <Navbar/>
-  <slot/>
+   <slot/>

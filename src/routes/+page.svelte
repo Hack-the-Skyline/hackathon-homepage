@@ -4,6 +4,7 @@
     import About from '$lib/components/about.svelte';
     import CloudBack from '$lib/assets/clouds/cloudback.png';
     import CloudFront from '$lib/assets/clouds/cloudfront.png';
+    import Navbar from "$lib/components/Navbar.svelte";
     export let data;
     console.log(data)
     // pad with 0
@@ -15,7 +16,6 @@
 
 <div class="w-screen h-auto flex-col">
 
-    
     
     <Parallax sections={3} config={{stiffness: 1, damping: 1}}>
         <ParallaxLayer rate={1} offset={0}>
